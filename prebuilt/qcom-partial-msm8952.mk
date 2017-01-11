@@ -43,8 +43,6 @@ PRODUCT_PACKAGES += \
 	libjpegdhw \
 	libjpegdmahw \
 	libjpegehw \
-	libloc_api_v02 \
-	libloc_ds_api \
 	liblqe \
 	libmdmdetect \
 	libmiscta \
@@ -159,8 +157,6 @@ PRODUCT_PACKAGES += \
 	libdsi_netctrl \
 	libdsutils \
 	libidl \
-	libloc_api_v02 \
-	libloc_ds_api \
 	liblqe \
 	libmdmdetect \
 	libmiscta \
