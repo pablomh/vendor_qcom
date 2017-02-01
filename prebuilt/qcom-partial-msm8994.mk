@@ -203,4 +203,43 @@ PRODUCT_PACKAGES += \
 	libsystem_health_mon \
 	libta \
 	libtime_genoff \
+	libxml \
+	gatekeeper.msm8994 \
+	sensors.msm8994 \
+	libQSEEComAPI \
+	libadsprpc \
+	libconfigdb \
+	libdiag \
+	libdrmfs \
+	libdrmtime \
+	libdsi_netctrl \
+	libdsutils \
+	libidl \
+	liblqe \
+	libmdmdetect \
+	libmiscta \
+	libnetmgr \
+	libperipheral_client \
+	libqcci_legacy \
+	libqdi \
+	libqdp \
+	libqmi \
+	libqmi_cci \
+	libqmi_client_helper \
+	libqmi_client_qmux \
+	libqmi_common_so \
+	libqmi_csi \
+	libqmi_encdec \
+	libqmiservices \
+	libril-qc-qmi-1 \
+	libril-qc-qmi-2 \
+	libril-qcril-hook-oem \
+	librpmb \
+	libsensor1 \
+	libsensor_reg \
+	libsmemlog \
+	libssd \
+	libsystem_health_mon \
+	libta \
+	libtime_genoff \
 	libxml
